@@ -19,6 +19,10 @@
 ## Hajdu Krisztián
 
 ## Hajek Dániel
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 - szia bátyus
 ## Jevcsák Gergely
 

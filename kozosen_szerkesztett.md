@@ -6,7 +6,9 @@
 
 ## Csapó Mátyás
 
-## Dorogi Dániel
+## Dorogi Dániel 
+
+*valami*
 
 ## Farkas Larion Péter
 

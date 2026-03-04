@@ -19,7 +19,7 @@
 ## Hajdu Krisztián
 
 ## Hajek Dániel
-
+- szia bátyus
 ## Jevcsák Gergely
 
 ## Kakuszi Ákos

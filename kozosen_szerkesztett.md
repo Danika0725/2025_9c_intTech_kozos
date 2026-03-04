@@ -11,7 +11,7 @@
 
 ## Dorogi Dániel 
 
-*valami*
+*valami--*
 
 ## Farkas Larion Péter
 

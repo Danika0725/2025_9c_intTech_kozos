@@ -20,7 +20,11 @@
 
 15 éves vagyok, még 3 évig 9.-es tanuló
 ## Hajek Dániel
+<<<<<<< Updated upstream
+=======
 
+>>>>>>> Stashed changes
+- szia bátyus
 ## Jevcsák Gergely
 
 ## Kakuszi Ákos

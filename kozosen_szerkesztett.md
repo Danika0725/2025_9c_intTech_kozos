@@ -27,6 +27,8 @@
 - szia bátyus
 ## Jevcsák Gergely
 
+### valami
+
 ## Kakuszi Ákos
 
 ## Kolop Balázs
